@@ -359,6 +359,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/lm/prekill/prekill_6GB.data:$(TARGET_COPY_OUT_VENDOR)/etc/lm/prekill/prekill_6GB.data \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/lm/sPLHFeature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/lm/sPLHFeature.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_cape/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_cape/video_system_specs.json \
+    vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_cape.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_cape.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_diwali_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_diwali_v0.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_diwali_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_diwali_v1.xml \
@@ -368,9 +369,13 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_performance_diwali_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_diwali_v1.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_performance_diwali_v2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_diwali_v2.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_performance_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_taro.xml \
+    vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_performance_taro_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_taro_vendor.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_performance_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_ukee.xml \
+    vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_system_default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_system_default.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_taro.xml \
+    vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_taro_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_taro_vendor.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_ukee.xml \
+    vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_codecs_with_dolby_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_with_dolby_taro.xml \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_diwali_v0/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v0/video_system_specs.json \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_diwali_v1/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v1/video_system_specs.json \
     vendor/xiaomi/sm8450-common/proprietary/vendor/etc/media_diwali_v2/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v2/video_system_specs.json \
