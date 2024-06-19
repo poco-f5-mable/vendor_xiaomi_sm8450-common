@@ -63,9 +63,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "com.qualcomm.qti.gpudrivers.taro.api31",
+	name: "com.qualcomm.qti.gpudrivers.pineapple.api34",
 	owner: "xiaomi",
-	apk: "proprietary/vendor/app/com.qualcomm.qti.gpudrivers.taro.api31/com.qualcomm.qti.gpudrivers.taro.api31.apk",
+	apk: "proprietary/vendor/app/com.qualcomm.qti.gpudrivers.pineapple.api34/com.qualcomm.qti.gpudrivers.pineapple.api34.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
